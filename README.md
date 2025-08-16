@@ -1,5 +1,5 @@
 <!-- Typing SVG Animation -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F71E&width=500&lines=Hey%2C+I'm+Krish+Mishra+👋;Engineering+Student+%7C+Fullstack+Dev;Cloud+Computing+Aspirant+☁️;Passionate+Learner+%26+Problem+Solver)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F71E&width=500&lines=Hey%2C+I'm+Krish+Mishra+👋;Engineering+Student+%7C+Fullstack+Dev;Cloud+%26+DevOps+Aspirant+☁️;Passionate+Learner+%26+Problem+Solver)](https://git.io/typing-svg)
 
 ---
 
@@ -20,7 +20,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="45"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="45"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="45"/> 
 </p>
 
 ### ⚙️ Backend  
@@ -35,19 +35,36 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45"/> 
 </p>
 
-### ☁️ Cloud & DevOps  
+### 🔧 Version Control  
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="45"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="45"/> 
 </p>
 
-### 📊 Other Skills  
+### ⚡ DevOps  
 <p>
-  <img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-blueviolet?style=for-the-badge"/> 
-  <img src="https://img.shields.io/badge/Open%20Source-❤️-red?style=for-the-badge"/> 
-  <img src="https://img.shields.io/badge/Problem%20Solving-⚡-orange?style=for-the-badge"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="45"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="45"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="45"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="45"/> 
+</p>
+
+### ☁️ Cloud  
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="55"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="55"/> 
+</p>
+
+### 📊 Extra Skills  
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" width="45"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="45"/> 
+  <img src="https://img.shields.io/badge/Phaser.js-yellow?style=for-the-badge&logo=javascript&logoColor=black"/> 
+  <img src="https://img.shields.io/badge/Three.js-black?style=for-the-badge&logo=three.js&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/ml5.js-purple?style=for-the-badge&logo=ai&logoColor=white"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="45"/> 
 </p>
 
 ---
