@@ -5,9 +5,9 @@
 
 # 💫 About Me  
 🌱 Engineering Student @ RIT, Raipur  
-💻 Fullstack Web Developer & Cloud Computing Enthusiast  
-🚀 Exploring DevOps, DSA & Open Source  
-⚡ Love to build creative projects and learn new tech  
+💻 Fullstack Web Developer & DevOps & Cloud Computing Enthusiast  
+🚀 Exploring DevOps, Cloud, DSA & Open Source  
+⚡ Love to build creative projects and learn new tech🎯
 
 ---
 
@@ -92,7 +92,6 @@
 <p align="center">
   <a href="https://g.dev/KrrishGLE"><img src="https://img.shields.io/badge/Google%20Dev%20Profile-4285F4?style=for-the-badge&logo=google&logoColor=white"/></a>
   <a href="https://github.com/KrrishMishra"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 ---
