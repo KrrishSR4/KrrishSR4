@@ -69,22 +69,6 @@
 
 ---
 
-# 📈 GitHub Stats  
-<p align="center">
-  <!-- Commit & private contributions fix -->
-  <img src="https://github-readme-stats.vercel.app/api?username=KrrishMishra&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true&cache_seconds=7200" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KrrishMishra&layout=compact&theme=radical&langs_count=8&hide_border=true&cache_seconds=7200" height="180"/>
-</p>
-
-<p align="center">
-  <!-- Streaks -->
-  <img src="https://streak-stats.demolab.com?user=KrrishMishra&theme=highcontrast&hide_border=true" height="180"/>
-</p>
-
-<!-- 🔁 Auto-updated metrics (PRs, issues, activity, habits) -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/KrrishMishra/KrrishMishra/main/metrics.svg" alt="Metrics (auto-updated)"/>
-</p>
 
 ---
 
