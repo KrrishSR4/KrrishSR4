@@ -12,6 +12,13 @@
 
 ---
 
+## 🎯 Tech Roles 
+
+**Devops** | **Cloud Computing** | **Site Reliability Engineering**
+
+---
+
+
 # 🛠️ Skills & Tools  
 
 ## 🌐 Frontend  
