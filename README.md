@@ -1,83 +1,84 @@
 <!-- Typing SVG Animation -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F71E&width=500&lines=Hey%2C+I'm+Krish+Mishra+👋;Engineering+Student+%7C+Fullstack+Dev;Cloud+%26+DevOps+Aspirant+☁️;Passionate+Learner+%26+Problem+Solver)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F71E&width=520&lines=Hey%2C+I'm+Krish+Mishra+👋;Engineering+Student+%7C+Fullstack+Developer;Cloud+%26+DevOps+Aspirant+☁️;Passionate+Learner+%26+Problem+Solver)](https://git.io/typing-svg)
 
 ---
 
 # 💫 About Me  
+
 🌱 Engineering Student @ RIT, Raipur  
-💻 Fullstack Web Developer & DevOps & Cloud Computing Enthusiast  
+💻 Fullstack Web Developer | DevOps & Cloud Computing Enthusiast  
 🚀 Exploring DevOps, Cloud, DSA & Open Source  
-⚡ Love to build creative projects and learn new tech🎯
+⚡ Love building real-world projects and learning new technologies  
 
 ---
 
 # 🛠️ Skills & Tools  
 
-### 🌐 Frontend  
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="45"/>
-</p>
+## 🌐 Frontend  
 
-### ⚙️ Backend  
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45"/>
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/>
-</p>
-
-### 🗄️ Database  
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45"/>
-</p>
-
-### 🔧 Version Control  
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/>
-</p>
-
-### ⚡ DevOps  
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="45"/>
-</p>
-
-### ☁️ Cloud  
-<p>
-  <img src="https://img.shields.io/badge/Amazon%20Web%20Services-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
-</p>
-
-### 📊 Extra Skills  
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="45"/>
-  <img src="https://img.shields.io/badge/Phaser.js-yellow?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Three.js-black?style=for-the-badge&logo=three.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ml5.js-purple?style=for-the-badge&logo=ai&logoColor=white"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="45"/>
-</p>
+| HTML | CSS | Bootstrap | Tailwind | JavaScript | Angular | React | Next.js |
+|-----|-----|-----------|----------|------------|---------|-------|--------|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48"/><br> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48"/><br> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="48"/><br> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="48"/><br> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48"/><br> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="48"/><br> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48"/><br> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="48"/><br> |
 
 ---
 
+## ⚙️ Backend  
+
+| Node.js | Express.js | NestJS |
+|--------|------------|--------|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48"/><br> | <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/><br> | <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/><br> |
+
+---
+
+## 🗄️ Databases  
+
+| SQL | Oracle | PostgreSQL | MongoDB | Redis |
+|-----|--------|------------|---------|-------|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48"/><br> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="48"/><br> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48"/><br> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48"/><br> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="48"/><br> |
+
+---
+
+## 🔧 Version Control  
+
+| Git | GitHub | GitLab | Bitbucket |
+|-----|--------|--------|-----------|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48"/><br> | <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/><br> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="48"/><br> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" width="48"/><br> |
+
+---
+
+## ⚡ DevOps & Monitoring  
+
+| Docker | Kubernetes | Terraform | Ansible | CloudFormation | Jenkins | GitHub Actions | CircleCI | Prometheus | Grafana |
+|------|------------|-----------|---------|----------------|---------|----------------|----------|------------|---------|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48"/><br> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="48"/><br> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="48"/><br> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="48"/><br> | <img src="https://img.shields.io/badge/AWS-CloudFormation-orange?style=for-the-badge"/><br> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="48"/><br> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" width="48"/><br> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg" width="48"/><br>CircleCI | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" width="48"/><br> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="48"/><br> |
+
+---
+
+## ☁️ Cloud Platforms  
+
+| AWS | Google Cloud | Azure |
+|-----|--------------|-------|
+| <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/><br>AWS (Good) | <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/><br>GCP (Intermediate) | <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/><br>Azure (Basic) |
+
+---
+
+## 📊 Extra / Visualization  
+
+| Three.js | Phaser.js | D3.js | Chart.js |
+|---------|-----------|-------|----------|
+| <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white"/><br> | <img src="https://img.shields.io/badge/Phaser.js-yellow?style=for-the-badge&logo=javascript&logoColor=black"/><br> | <img src="https://img.shields.io/badge/D3.js-F9A03C?style=for-the-badge&logo=d3.js&logoColor=black"/><br> | <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white"/><br> |
 
 ---
 
 # 🔗 Connect With Me  
+
 <p align="center">
-  <a href="https://g.dev/KrrishGLE"><img src="https://img.shields.io/badge/Google%20Dev%20Profile-4285F4?style=for-the-badge&logo=google&logoColor=white"/></a>
-  <a href="https://github.com/KrrishMishra"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://g.dev/KrrishGLE">
+    <img src="https://img.shields.io/badge/Google%20Developer%20Profile-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+  </a>
+  <a href="https://github.com/KrrishMishra">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
 
 ---
-
-![Visitor Count](https://komarev.com/ghpvc/?username=KrrishMishra&color=brightgreen)
