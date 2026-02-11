@@ -1,5 +1,5 @@
 <!-- Typing SVG Animation -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rubik+Doodle+Shadow&size=36&pause=220&color=FFFFFF&center=true&vCenter=true&width=1300&lines=Hey%2C+I'm+Krish+Mishra;Engineering+Student+(2023–2027);Fullstack+Developer;DevOps+%7C+Cloud+%7C+Site+Reliability+Engineering+(SRE)+Enthusiast;Passionate+Learner+%7C+Problem+Solver;Open+Source+Contributor)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rubik+Doodle+Shadow&size=36&pause=220&color=FFFFFF&center=true&vCenter=true&width=1300&lines=Hey%2C+I'm+Krish+Mishra;Engineering+Student+(2023–2027);Fullstack+Developer;DevOps+%7C+Cloud+%7C+SRE+Focused;Passionate+Learner+%7C+Problem+Solver;Open+Source+Contributor)](https://git.io/typing-svg)
 
 
 
