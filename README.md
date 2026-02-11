@@ -22,7 +22,7 @@
 # 💫 About Me  
 
 🌱 Engineering Student @ RIT, Raipur  
-💻 Fullstack Web Developer | DevOps & Cloud Computing Enthusiast  
+💻 Fullstack Web Developer | DevOps | Cloud Computing & Site Reliability Engineering Enthusiast  
 🚀 Exploring DevOps, Cloud, DSA & Open Source  
 ⚡ Love building real-world projects and learning new technologies  
 
