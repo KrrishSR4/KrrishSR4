@@ -1,5 +1,7 @@
+# Krish Mishra
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/KrrishSR4/KrrishSR4/main/KrrishSR4_banner.png" width="100%" />
+  <img src="https://raw.githubusercontent.com/KrrishSR4/KrrishSR4/main/KrrishSR4_Banner.png" width="100%" />
 </p>
 
 
