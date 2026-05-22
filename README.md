@@ -37,7 +37,7 @@
 
 ## 🎯 Tech Roles 
 
-**Devops** | **Cloud Computing** | **Site Reliability Engineering**
+**FullStack Developer** | **DevOps** | **Cloud Computing** | **Site Reliability Engineering**
 
 ---
 
