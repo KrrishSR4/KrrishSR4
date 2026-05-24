@@ -26,25 +26,25 @@
 
 ---
 
-# 💫 About Me  
+#  About Me  
 
-🌱 Engineering Student @ RIT, Raipur  
-💻 Fullstack Web Developer | DevOps | Cloud Computing & Site Reliability Engineering Enthusiast  
-🚀 Exploring DevOps, Cloud, DSA & Open Source  
-⚡ Love building real-world projects and learning new technologies  
+ Engineering Student @ RIT, Raipur  
+ Fullstack Web Developer | DevOps | Cloud Computing & Site Reliability Engineering Enthusiast  
+ Exploring DevOps, Cloud, DSA & Open Source  
+ Love building real-world projects and learning new technologies  
 
 ---
 
-## 🎯 Tech Roles 
+##  Tech Roles 
 
 **FullStack Developer** | **DevOps** | **Cloud Computing** | **Site Reliability Engineering**
 
 ---
 
 
-# 🛠️ Skills & Tools  
+#  Skills & Tools  
 
-## 🌐 Frontend  
+##  Frontend  
 
 | HTML | CSS | Bootstrap | Tailwind | JavaScript | Angular | React | Next.js |
 |-----|-----|-----------|----------|------------|---------|-------|--------|
@@ -52,7 +52,7 @@
 
 ---
 
-## ⚙️ Backend  
+##  Backend  
 
 | Node.js | Express.js | NestJS |
 |--------|------------|--------|
@@ -60,7 +60,7 @@
 
 ---
 
-## 🗄️ Databases  
+##  Databases  
 
 | SQL | Oracle | PostgreSQL | MongoDB | Redis |
 |-----|--------|------------|---------|-------|
@@ -68,7 +68,7 @@
 
 ---
 
-## 🔧 Version Control  
+##  Version Control  
 
 | Git | GitHub | GitLab | Bitbucket |
 |-----|--------|--------|-----------|
@@ -76,7 +76,7 @@
 
 ---
 
-## ⚡ DevOps, CI-CD & Monitoring  
+##  DevOps, CI-CD & Monitoring  
 
 | Docker | Kubernetes | Terraform | Ansible | CloudFormation | Jenkins | GitHub Actions | CircleCI | Prometheus | Grafana |
 |------|------------|-----------|---------|----------------|---------|----------------|----------|------------|---------|
@@ -84,7 +84,7 @@
 
 ---
 
-## ☁️ Cloud Platforms  
+##  Cloud Platforms  
 
 | AWS | Google Cloud | Azure |
 |-----|--------------|-------|
@@ -92,7 +92,7 @@
 
 ---
 
-## 📊 Extra / Visualization  
+##  Extra / Visualization  
 
 | Three.js | Phaser.js | D3.js | Chart.js |
 |---------|-----------|-------|----------|
@@ -100,7 +100,7 @@
 
 ---
 
-# 🔗 Connect With Me  
+#  Connect With Me  
 
 <p align="center">
   <a href="https://g.dev/KrrishGLE">
