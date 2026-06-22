@@ -1,11 +1,11 @@
-# Krish Mishra
+<h1 align="center">Krish Mishra</h1>
 
 
 <!-- Typing SVG Animation -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rubik+Doodle+Shadow&size=36&pause=220&color=FFFFFF&center=true&vCenter=true&width=1300&lines=Hey%2C+I'm+Krish+Mishra;Engineering+Student+(2023–2027);Fullstack+Developer;DevOps+%7C+Cloud+%7C+SRE+Focused;Passionate+Learner+%7C+Problem+Solver;Open+Source+Contributor)](https://git.io/typing-svg)
 ---
 
-#  About Me  
+<h1 align="center">About Me</h1>
 
  Engineering Student @ RIT, Raipur  
  Fullstack Web Developer | DevOps | Cloud Computing & Site Reliability Engineering Enthusiast  
@@ -14,14 +14,15 @@
 
 ---
 
-#  Tech Roles 
+<h1 align="center">Tech Roles</h1>
 
 **FullStack Developement** | **DevOps Engineering** | **Platform Engineering** | **Cloud Engineering** | **Site Reliability Engineering**
 
 ---
 
 
-# Core Strengths
+<h1 align="center">Core Strengths</h1>
+
 ```md
 
 
@@ -39,7 +40,7 @@ SRE        ▰▰▰▰▰▰▰▱▱▱ 75%
 
 ---
 
-# Engineering Competencies
+<h1 align="center">Engineering Competencies</h1>
 
 
 ```mermaid
@@ -83,7 +84,7 @@ graph TB
 
 ---
 
-# GitHub Stats
+<h1 align="center">GitHub Stats</h1>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/KrrishSR4/KrrishSR4/main/github-metrics.svg" width="70%">
@@ -91,7 +92,7 @@ graph TB
 
 ---
 
-# Contribution Graph
+<h1 align="center">Contribution Graph</h1>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=KrrishSR4&bg_color=0d1117&color=58a6ff&line=00E676&point=ffffff&area=true&hide_border=true&custom_title=KrrishSR4%20Contribution%20Graph" width="100%">
@@ -99,11 +100,11 @@ graph TB
 
 ---
 
-#  Skills & Tools  
+<h1 align="center">Skills & Tools</h1>
 
 ---
 
-## Programming Language
+<h3 align="center">Programming Language</h3>
 
 | JavaScript | TypeScript |
 |:----------:|:----------:|
@@ -111,14 +112,15 @@ graph TB
 
 ---
 
-##  Frontend  
+<h3 align="center">Frontend</h3>
+
 | HTML | CSS | Tailwind CSS | React | Angular | Next.js |
 |:----:|:---:|:------------:|:-----:|:-------:|:-------:|
 | <img src="https://skillicons.dev/icons?i=html" width="48"/> | <img src="https://skillicons.dev/icons?i=css" width="48"/> | <img src="https://skillicons.dev/icons?i=tailwind" width="48"/> | <img src="https://skillicons.dev/icons?i=react" width="48"/> | <img src="https://skillicons.dev/icons?i=angular" width="48"/> | <img src="https://skillicons.dev/icons?i=nextjs" width="48"/> |
 
 ---
 
-##  Backend  
+<h3 align="center">Backend</h3>
 
 | Node.js | Express.js | REST APIs | GraphQL |
 |:-------:|:----------:|:---------:|:-------:|
@@ -126,7 +128,7 @@ graph TB
 
 ---
 
-##  Databases  
+<h3 align="center">Databases</h3>
 
 | SQL | PostgreSQL | Redis |
 |:---:|:----------:|:-----:|
@@ -134,7 +136,7 @@ graph TB
 
 ---
 
-##  Tools 
+<h3 align="center">Tools</h3>
 
 | Cloudflare | Supabase | Firebase | Vercel | Git | GitHub |
 |:----------:|:--------:|:--------:|:------:|:---:|:------:|
@@ -142,26 +144,26 @@ graph TB
 
 ---
 
-## DevOps, CI-CD & Cloud Infrastructure
+<h3 align="center">DevOps, CI-CD & Cloud Infrastructure</h3>
 
 | Docker | Kubernetes | Nginx | GitHub Actions | Jenkins | ArgoCD | Terraform | Ansible |
 |:------:|:----------:|:-----:|:--------------:|:-------:|:------:|:---------:|:-------:|
 | <img src="https://skillicons.dev/icons?i=docker" width="48"/> | <img src="https://skillicons.dev/icons?i=kubernetes" width="48"/> | <img src="https://skillicons.dev/icons?i=nginx" width="48"/> | <img src="https://skillicons.dev/icons?i=githubactions" width="48"/> | <img src="https://skillicons.dev/icons?i=jenkins" width="48"/> | <img src="https://raw.githubusercontent.com/cncf/artwork/main/projects/argo/icon/color/argo-icon-color.svg" width="48"/> | <img src="https://skillicons.dev/icons?i=terraform" width="48"/> | <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" width="48"/> |
 
-## Monitoring & Observability
+<h3 align="center">Monitoring & Observability</h3>
 
 | OpenTelemetry | Prometheus | Grafana | Datadog |
 |:-------------:|:----------:|:-------:|:-------:|
 | <img src="https://raw.githubusercontent.com/cncf/artwork/main/projects/opentelemetry/icon/color/opentelemetry-icon-color.svg" width="48"/> | <img src="https://skillicons.dev/icons?i=prometheus" width="48"/> | <img src="https://skillicons.dev/icons?i=grafana" width="48"/> | <img src="https://cdn.simpleicons.org/datadog" width="48"/> |
 
-## Linux & DevSecOps
+<h3 align="center">Linux & DevSecOps</h3>
 
 | Linux | Trivy | SonarQube | OWASP | GitHub CodeQL |
 |:-----:|:-----:|:---------:|:-----:|:-------------:|
 | <img src="https://skillicons.dev/icons?i=linux" width="48"/> | <img src="https://cdn.simpleicons.org/trivy/white" width="48"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sonarqube/sonarqube-original.svg" width="48"/> | <img src="https://cdn.simpleicons.org/owasp/white" width="48"/> | <img src="./assets/codeql.svg" width="48"/> |
 ---
 
-##  Cloud Platforms  
+<h3 align="center">Cloud Platforms</h3>
 
 | AWS | GCP | OCI |
 |:---:|:---:|:---:|
@@ -169,13 +171,15 @@ graph TB
 
 ---
 
-##  Data Analysis & Visualization  
+<h3 align="center">Data Analysis & Visualization</h3>
+
 | D3.js | Chart.js |
 |:-----:|:--------:|
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" width="48"/> | <img src="https://cdn.simpleicons.org/chartdotjs/FF6384" width="48"/> |
+
 ---
 
-# Connect & Collaborate
+<h1 align="center">Connect & Collaborate</h1>
 
 | <a href="https://me.developers.google.com/u/KrrishGLE">Google Developer Profile</a> | <a href="https://github.com/KrrishSR4">GitHub</a> |
 |:------------------------------------------------------------------------------------:|:--------------------------------------------------:|
