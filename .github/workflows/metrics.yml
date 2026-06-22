@@ -1,0 +1,45 @@
+name: Metrics
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Generate Metrics
+        uses: lowlighter/metrics@latest
+        with:
+          user: KrrishSR4
+          token: ${{ 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 }}
+
+          template: classic
+          base: header, activity, community, repositories, metadata
+
+          config_timezone: Asia/Kolkata
+
+          plugin_languages: yes
+          plugin_languages_limit: 8
+          plugin_languages_sections: most-used
+          plugin_languages_indepth: yes
+
+          plugin_isocalendar: yes
+
+          plugin_achievements: yes
+          plugin_achievements_threshold: C
+
+          plugin_followup: yes
+          plugin_followup_sections: repositories
+
+          plugin_lines: yes
+
+          filename: github-metrics.svg
+
+      - name: Commit Metrics
+        uses: EndBug/add-and-commit@v9
+        with:
+          add: github-metrics.svg
+          message: "Update metrics"
