@@ -3,23 +3,6 @@
 
 <!-- Typing SVG Animation -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rubik+Doodle+Shadow&size=36&pause=220&color=FFFFFF&center=true&vCenter=true&width=1300&lines=Hey%2C+I'm+Krish+Mishra;Engineering+Student+(2023–2027);Fullstack+Developer;DevOps+%7C+Cloud+%7C+SRE+Focused;Passionate+Learner+%7C+Problem+Solver;Open+Source+Contributor)](https://git.io/typing-svg)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ---
 
 #  About Me  
@@ -38,13 +21,59 @@
 ---
 
 
-#  Skills & Tools  
+# Core Strengths
+```md
+
+
+
+Frontend   ▰▰▰▰▰▰▰▱▱▱ 70%
+
+Backend    ▰▰▰▰▰▰▰▰▰▱ 90%
+
+DevOps     ▰▰▰▰▰▰▰▰▰▰ 95%
+
+Cloud      ▰▰▰▰▰▰▱▱▱▱ 65%
+
+SRE        ▰▰▰▰▰▰▰▱▱▱ 75%
+```
 ---
+
+# Profile Summary
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KrrishSR4&theme=github_dark" width="100%">
+</p>
+
+---
+# GitHub Stats
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=KrrishSR4&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=KrrishSR4&hide_border=true&theme=transparent" />
+</p>
+
+<p align="center">
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KrrishSR4&layout=compact&hide_border=true&theme=transparent" />
+</p><br>
+
+---
+
+# Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KrrishSR4&bg_color=0d1117&color=58a6ff&line=00E676&point=ffffff&area=true&hide_border=true&custom_title=KrrishSR4%20Contribution%20Graph" width="100%">
+</p>
+
+---
+
+#  Skills & Tools  
+
+---
+
 ## Programming Language
 
 | JavaScript | TypeScript |
 |:----------:|:----------:|
 | <img src="https://skillicons.dev/icons?i=js" width="48"/> | <img src="https://skillicons.dev/icons?i=ts" width="48"/> |
+
 ---
 
 ##  Frontend  
@@ -117,3 +146,14 @@
 |:------------------------------------------------------------------------------------:|:--------------------------------------------------:|
 | <img src="https://cdn.simpleicons.org/google" width="55"/> | <img src="https://skillicons.dev/icons?i=github" width="55"/> |
 ---
+
+
+
+
+
+
+
+
+
+
+
