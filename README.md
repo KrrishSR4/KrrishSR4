@@ -3,30 +3,43 @@
 
 <!-- Typing SVG Animation -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rubik+Doodle+Shadow&size=36&pause=220&color=FFFFFF&center=true&vCenter=true&width=1300&lines=Hey%2C+I'm+Krish+Mishra;Engineering+Student+(2023–2027);Fullstack+Developer;DevOps+%7C+Cloud+%7C+SRE+Focused;Passionate+Learner+%7C+Problem+Solver;Open+Source+Contributor)](https://git.io/typing-svg)
+
 ---
 
 <h1 align="center">About Me</h1>
 
- Engineering Student @ RIT, Raipur  
- Fullstack Web Developer | DevOps | Cloud Computing & Site Reliability Engineering Enthusiast  
- Exploring DevOps, Cloud, DSA & Open Source  
- Love building real-world projects and learning new technologies  
+ <h3 align="center">
+Engineering Student @ RIT, Raipur
+</h3>
+
+<p align="center">
+Fullstack Web Developer | DevOps | Cloud Computing & Site Reliability Engineering Enthusiast
+<br>
+Exploring DevOps, Cloud, DSA & Open Source
+<br>
+Love building real-world projects and learning new technologies
+</p>
 
 ---
 
 <h1 align="center">Tech Roles</h1>
 
-**FullStack Developement** | **DevOps Engineering** | **Platform Engineering** | **Cloud Engineering** | **Site Reliability Engineering**
+<p align="center">
+  <strong>FullStack Development</strong> | 
+  <strong>DevOps Engineering</strong> | 
+  <strong>Platform Engineering</strong> | 
+  <strong>Cloud Engineering</strong> | 
+  <strong>Site Reliability Engineering</strong>
+</p>
 
 ---
 
 
 <h1 align="center">Core Strengths</h1>
 
-```md
+<div align="center">
 
-
-
+```text
 Frontend   ▰▰▰▰▰▰▰▱▱▱ 70%
 
 Backend    ▰▰▰▰▰▰▰▰▰▱ 90%
@@ -37,6 +50,8 @@ Cloud      ▰▰▰▰▰▰▱▱▱▱ 65%
 
 SRE        ▰▰▰▰▰▰▰▱▱▱ 75%
 ```
+
+</div>
 
 ---
 
@@ -106,84 +121,130 @@ graph TB
 
 <h3 align="center">Programming Language</h3>
 
+<div align="center">
+
 | JavaScript | TypeScript |
 |:----------:|:----------:|
 | <img src="https://skillicons.dev/icons?i=js" width="48"/> | <img src="https://skillicons.dev/icons?i=ts" width="48"/> |
+
+</div>
 
 ---
 
 <h3 align="center">Frontend</h3>
 
+<div align="center">
+
 | HTML | CSS | Tailwind CSS | React | Angular | Next.js |
 |:----:|:---:|:------------:|:-----:|:-------:|:-------:|
 | <img src="https://skillicons.dev/icons?i=html" width="48"/> | <img src="https://skillicons.dev/icons?i=css" width="48"/> | <img src="https://skillicons.dev/icons?i=tailwind" width="48"/> | <img src="https://skillicons.dev/icons?i=react" width="48"/> | <img src="https://skillicons.dev/icons?i=angular" width="48"/> | <img src="https://skillicons.dev/icons?i=nextjs" width="48"/> |
+
+</div>
 
 ---
 
 <h3 align="center">Backend</h3>
 
+<div align="center">
+
 | Node.js | Express.js | REST APIs | GraphQL |
 |:-------:|:----------:|:---------:|:-------:|
 | <img src="https://skillicons.dev/icons?i=nodejs" width="48"/> | <img src="https://skillicons.dev/icons?i=express" width="48"/> | <img src="https://cdn-icons-png.flaticon.com/512/2165/2165004.png" width="48"/> | <img src="https://skillicons.dev/icons?i=graphql" width="48"/> |
+
+</div>
 
 ---
 
 <h3 align="center">Databases</h3>
 
+<div align="center">
+
 | SQL | PostgreSQL | Redis |
 |:---:|:----------:|:-----:|
 | <img src="https://skillicons.dev/icons?i=mysql" width="48"/> | <img src="https://skillicons.dev/icons?i=postgres" width="48"/> | <img src="https://skillicons.dev/icons?i=redis" width="48"/> |
+
+</div>
 
 ---
 
 <h3 align="center">Tools</h3>
 
+<div align="center">
+
 | Cloudflare | Supabase | Firebase | Vercel | Git | GitHub |
 |:----------:|:--------:|:--------:|:------:|:---:|:------:|
 | <img src="https://skillicons.dev/icons?i=cloudflare" width="48"/> | <img src="https://skillicons.dev/icons?i=supabase" width="48"/> | <img src="https://skillicons.dev/icons?i=firebase" width="48"/> | <img src="https://skillicons.dev/icons?i=vercel" width="48"/> | <img src="https://skillicons.dev/icons?i=git" width="48"/> | <img src="https://skillicons.dev/icons?i=github" width="48"/> |
+
+</div>
 
 ---
 
 <h3 align="center">DevOps, CI-CD & Cloud Infrastructure</h3>
 
+<div align="center">
+
 | Docker | Kubernetes | Nginx | GitHub Actions | Jenkins | ArgoCD | Terraform | Ansible |
 |:------:|:----------:|:-----:|:--------------:|:-------:|:------:|:---------:|:-------:|
 | <img src="https://skillicons.dev/icons?i=docker" width="48"/> | <img src="https://skillicons.dev/icons?i=kubernetes" width="48"/> | <img src="https://skillicons.dev/icons?i=nginx" width="48"/> | <img src="https://skillicons.dev/icons?i=githubactions" width="48"/> | <img src="https://skillicons.dev/icons?i=jenkins" width="48"/> | <img src="https://raw.githubusercontent.com/cncf/artwork/main/projects/argo/icon/color/argo-icon-color.svg" width="48"/> | <img src="https://skillicons.dev/icons?i=terraform" width="48"/> | <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" width="48"/> |
 
+</div>
+
 <h3 align="center">Monitoring & Observability</h3>
+
+<div align="center">
 
 | OpenTelemetry | Prometheus | Grafana | Datadog |
 |:-------------:|:----------:|:-------:|:-------:|
 | <img src="https://raw.githubusercontent.com/cncf/artwork/main/projects/opentelemetry/icon/color/opentelemetry-icon-color.svg" width="48"/> | <img src="https://skillicons.dev/icons?i=prometheus" width="48"/> | <img src="https://skillicons.dev/icons?i=grafana" width="48"/> | <img src="https://cdn.simpleicons.org/datadog" width="48"/> |
 
+</div>
+
 <h3 align="center">Linux & DevSecOps</h3>
+
+<div align="center">
 
 | Linux | Trivy | SonarQube | OWASP | GitHub CodeQL |
 |:-----:|:-----:|:---------:|:-----:|:-------------:|
 | <img src="https://skillicons.dev/icons?i=linux" width="48"/> | <img src="https://cdn.simpleicons.org/trivy/white" width="48"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sonarqube/sonarqube-original.svg" width="48"/> | <img src="https://cdn.simpleicons.org/owasp/white" width="48"/> | <img src="./assets/codeql.svg" width="48"/> |
+
+</div>
+
 ---
 
 <h3 align="center">Cloud Platforms</h3>
+
+<div align="center">
 
 | AWS | GCP | OCI |
 |:---:|:---:|:---:|
 | <img src="https://skillicons.dev/icons?i=aws" width="48"/> | <img src="https://skillicons.dev/icons?i=gcp" width="48"/> | <img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" width="48"/> |
 
+</div>
+
 ---
 
 <h3 align="center">Data Analysis & Visualization</h3>
+
+<div align="center">
 
 | D3.js | Chart.js |
 |:-----:|:--------:|
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" width="48"/> | <img src="https://cdn.simpleicons.org/chartdotjs/FF6384" width="48"/> |
 
+</div>
+
 ---
 
 <h1 align="center">Connect & Collaborate</h1>
 
+<div align="center">
+
 | <a href="https://me.developers.google.com/u/KrrishGLE">Google Developer Profile</a> | <a href="https://github.com/KrrishSR4">GitHub</a> |
 |:------------------------------------------------------------------------------------:|:--------------------------------------------------:|
 | <img src="https://cdn.simpleicons.org/google" width="55"/> | <img src="https://skillicons.dev/icons?i=github" width="55"/> |
+
+</div>
+
 ---
 
 
