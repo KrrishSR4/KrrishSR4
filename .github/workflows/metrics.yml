@@ -25,31 +25,26 @@ jobs:
           filename: github-metrics.svg
 
           template: classic
-          base: header, activity, community, repositories, metadata
+          base: header, activity, community, repositories
 
           config_timezone: Asia/Kolkata
-          config_padding: 30
+          config_padding: 100
 
-          # Languages
           plugin_languages: yes
           plugin_languages_limit: 8
           plugin_languages_indepth: yes
           plugin_languages_sections: most-used
 
-          # Contribution Calendar
           plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
 
-          # Follow-up Analysis
           plugin_followup: yes
           plugin_followup_sections: repositories
 
-          # Code Statistics
           plugin_lines: yes
 
-          # Notable Contributions
           plugin_notable: yes
 
-          # Topics
           plugin_topics: yes
           plugin_topics_limit: 20
 
