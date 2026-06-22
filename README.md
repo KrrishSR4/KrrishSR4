@@ -33,7 +33,7 @@
 
 ##  Tech Roles 
 
-**FullStack Developer** | **DevOps** | **Cloud Computing** | **Site Reliability Engineering**
+**FullStack Developement** | **DevOps Engineering** | **Platform Engineering** | **Cloud Engineering** | **Site Reliability Engineering**
 
 ---
 
@@ -78,47 +78,42 @@
 
 ---
 
-##  DevOps, CI-CD & Monitoring  
+## DevOps, CI-CD & Cloud Infrastructure
 
-| Docker | Kubernetes | GitHub Actions | Jenkins | Terraform | Ansible |
-|:------:|:----------:|:--------------:|:-------:|:---------:|:-------:|
-| <img src="https://skillicons.dev/icons?i=docker" width="48"/> | <img src="https://skillicons.dev/icons?i=kubernetes" width="48"/> | <img src="https://skillicons.dev/icons?i=githubactions" width="48"/> | <img src="https://skillicons.dev/icons?i=jenkins" width="48"/> | <img src="https://skillicons.dev/icons?i=terraform" width="48"/> | <img src="https://skillicons.dev/icons?i=ansible" width="48"/> |
+| Docker | Kubernetes | Nginx | GitHub Actions | Jenkins | ArgoCD | Terraform | Ansible |
+|:------:|:----------:|:-----:|:--------------:|:-------:|:------:|:---------:|:-------:|
+| <img src="https://skillicons.dev/icons?i=docker" width="48"/> | <img src="https://skillicons.dev/icons?i=kubernetes" width="48"/> | <img src="https://skillicons.dev/icons?i=nginx" width="48"/> | <img src="https://skillicons.dev/icons?i=githubactions" width="48"/> | <img src="https://skillicons.dev/icons?i=jenkins" width="48"/> | <img src="https://raw.githubusercontent.com/cncf/artwork/main/projects/argo/icon/color/argo-icon-color.svg" width="48"/> | <img src="https://skillicons.dev/icons?i=terraform" width="48"/> | <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" width="48"/> |
 
-| ArgoCD | OpenTelemetry | Prometheus | Grafana | Datadog | Nginx |
-|:------:|:-------------:|:----------:|:-------:|:-------:|:-----:|
-| <img src="https://cdn.simpleicons.org/argo" width="48"/> | <img src="https://raw.githubusercontent.com/cncf/artwork/main/projects/opentelemetry/icon/color/opentelemetry-icon-color.svg" width="48"/> | <img src="https://skillicons.dev/icons?i=prometheus" width="48"/> | <img src="https://skillicons.dev/icons?i=grafana" width="48"/> | <img src="https://cdn.simpleicons.org/datadog" width="48"/> | <img src="https://skillicons.dev/icons?i=nginx" width="48"/> |
+## Monitoring & Observability
 
+| OpenTelemetry | Prometheus | Grafana | Datadog |
+|:-------------:|:----------:|:-------:|:-------:|
+| <img src="https://raw.githubusercontent.com/cncf/artwork/main/projects/opentelemetry/icon/color/opentelemetry-icon-color.svg" width="48"/> | <img src="https://skillicons.dev/icons?i=prometheus" width="48"/> | <img src="https://skillicons.dev/icons?i=grafana" width="48"/> | <img src="https://cdn.simpleicons.org/datadog" width="48"/> |
+
+## Linux & DevSecOps
 
 | Linux | Trivy | SonarQube | OWASP | GitHub CodeQL |
 |:-----:|:-----:|:---------:|:-----:|:-------------:|
-| <img src="https://skillicons.dev/icons?i=linux" width="48"/> | <img src="https://raw.githubusercontent.com/aquasecurity/trivy/main/docs/imgs/logo.png" width="48"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sonarqube/sonarqube-original.svg" width="48"/> | <img src="https://cdn.simpleicons.org/owasp" width="48"/> | <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="48"/> |
+| <img src="https://skillicons.dev/icons?i=linux" width="48"/> | <img src="https://cdn.simpleicons.org/trivy/white" width="48"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sonarqube/sonarqube-original.svg" width="48"/> | <img src="https://cdn.simpleicons.org/owasp/white" width="48"/> | <img src="./assets/codeql.svg" width="48"/> |
 ---
 
 ##  Cloud Platforms  
 
-| AWS | Google Cloud | Azure |
-|-----|--------------|-------|
-| <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/><br>AWS (Good) | <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/><br>GCP (Intermediate) | <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/><br>Azure (Basic) |
+| AWS | GCP | OCI |
+|:---:|:---:|:---:|
+| <img src="https://skillicons.dev/icons?i=aws" width="48"/> | <img src="https://skillicons.dev/icons?i=gcp" width="48"/> | <img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" width="48"/> |
 
 ---
 
-##  Extra / Visualization  
-
-| Three.js | Phaser.js | D3.js | Chart.js |
-|---------|-----------|-------|----------|
-| <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white"/><br> | <img src="https://img.shields.io/badge/Phaser.js-yellow?style=for-the-badge&logo=javascript&logoColor=black"/><br> | <img src="https://img.shields.io/badge/D3.js-F9A03C?style=for-the-badge&logo=d3.js&logoColor=black"/><br> | <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white"/><br> |
-
+##  Data Analysis & Visualization  
+| D3.js | Chart.js |
+|:-----:|:--------:|
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" width="48"/> | <img src="https://cdn.simpleicons.org/chartdotjs/FF6384" width="48"/> |
 ---
 
-#  Connect With Me  
+# Connect & Collaborate
 
-<p align="center">
-  <a href="https://g.dev/KrrishGLE">
-    <img src="https://img.shields.io/badge/Google%20Developer%20Profile-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-  </a>
-  <a href="https://github.com/KrrishMishra">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
-
+| <a href="https://me.developers.google.com/u/KrrishGLE">Google Developer Profile</a> | <a href="https://github.com/KrrishSR4">GitHub</a> |
+|:------------------------------------------------------------------------------------:|:--------------------------------------------------:|
+| <img src="https://cdn.simpleicons.org/google" width="55"/> | <img src="https://skillicons.dev/icons?i=github" width="55"/> |
 ---
