@@ -14,7 +14,7 @@
 
 ---
 
-##  Tech Roles 
+#  Tech Roles 
 
 **FullStack Developement** | **DevOps Engineering** | **Platform Engineering** | **Cloud Engineering** | **Site Reliability Engineering**
 
@@ -38,6 +38,50 @@ SRE        ▰▰▰▰▰▰▰▱▱▱ 75%
 ```
 
 ---
+
+# Engineering Competencies
+
+
+```mermaid
+graph TB
+
+    A[ Krish Mishra]
+
+    A --> B[Software Engineering Foundations]
+
+    B --> C["Programming Languages<br/>JavaScript • TypeScript"]
+
+    B --> D["Frontend Engineering<br/>HTML5 • CSS3 • Tailwind CSS • React.js • Angular • Next.js"]
+
+    B --> E["Backend Engineering<br/>Node.js • Express.js • REST APIs • GraphQL • Authentication • WebSockets"]
+
+    C --> F["Database Systems<br/>SQL • PostgreSQL • Redis"]
+    D --> F
+    E --> F
+
+    F --> G["Tools & Platforms<br/>Git • GitHub • Cloudflare • Firebase • Supabase • Vercel • Lovable"]
+
+    G --> H["DevOps & Cloud Engineering"]
+
+    H --> I["DevOps Engineering<br/>GitHub Actions • Docker • Kubernetes • Jenkins • Nginx • ArgoCD"]
+
+    H --> J["Infrastructure as Code<br/>Terraform • Ansible"]
+
+    H --> K["Cloud Platforms<br/>AWS • Google Cloud Platform • Oracle Cloud Infrastructure"]
+
+    J --> L["Observability & SRE<br/>Prometheus • Grafana • OpenTelemetry • Datadog"]
+
+    L --> M["DevSecOps<br/>Aqua Security • Trivy • OWASP • GitHub CodeQL • SonarQube"]
+
+    M --> N["Production Systems"]
+
+    N --> N1["Scalable SaaS Applications"]
+    N --> N2["Cloud Native Infrastructure"]
+    N --> N3["Site Reliability Engineering"]
+    N --> N4["Platform Engineering"]
+```
+
+
 
 # GitHub Stats
 
