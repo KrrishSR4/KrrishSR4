@@ -45,7 +45,7 @@ SRE        ▰▰▰▰▰▰▰▱▱▱ 75%
 # GitHub Stats
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/KrrishSR4/KrrishSR4/main/github-metrics.svg">
+  <img src="https://raw.githubusercontent.com/KrrishSR4/KrrishSR4/main/github-metrics.svg" width="70%">
 </p>
 
 ---
