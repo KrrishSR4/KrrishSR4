@@ -36,17 +36,26 @@ Cloud      ▰▰▰▰▰▰▱▱▱▱ 65%
 
 SRE        ▰▰▰▰▰▰▰▱▱▱ 75%
 ```
+
+
+
+
 ---
 
 # GitHub Stats
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/KrrishSR4/KrrishSR4/main/github-metrics.svg" width="100%">
+  <img src="https://raw.githubusercontent.com/KrrishSR4/KrrishSR4/main/github-metrics.svg">
 </p>
 
-
-
-
 ---
+
+
+
+
+
+
+
 
 # Contribution Graph
 
