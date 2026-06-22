@@ -38,21 +38,13 @@ SRE        ▰▰▰▰▰▰▰▱▱▱ 75%
 ```
 ---
 
-# Profile Summary
+# GitHub Stats
 <p align="center">
   <img src="https://raw.githubusercontent.com/KrrishSR4/KrrishSR4/main/github-metrics.svg" width="100%">
 </p>
 
----
-# GitHub Stats
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=KrrishSR4&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=KrrishSR4&hide_border=true&theme=transparent" />
-</p>
 
-<p align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KrrishSR4&layout=compact&hide_border=true&theme=transparent" />
-</p><br>
+
 
 ---
 
