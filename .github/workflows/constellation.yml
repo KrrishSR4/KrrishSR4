@@ -1,4 +1,4 @@
-name: GitHub Constellation
+name: Open Source Galaxy
 
 on:
   schedule:
@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  build:
+  build-galaxy:
     runs-on: ubuntu-latest
 
     permissions:
@@ -21,16 +21,16 @@ jobs:
         with:
           node-version: 22
 
-      - name: Generate Constellation
+      - name: Generate Galaxy SVG
         run: node .github/scripts/constellation.js
 
-      - name: Commit SVG
+      - name: Commit Galaxy SVG
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
 
-          git add assets/constellation.svg
+          git add assets/galaxy.svg
 
-          git diff --staged --quiet || git commit -m "update constellation"
+          git diff --staged --quiet || git commit -m "chore: update galaxy"
 
           git push
