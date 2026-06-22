@@ -40,7 +40,7 @@ SRE        ▰▰▰▰▰▰▰▱▱▱ 75%
 
 # Profile Summary
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KrrishSR4&theme=github_dark" width="100%">
+  <img src="https://raw.githubusercontent.com/KrrishSR4/KrrishSR4/main/github-metrics.svg" width="100%">
 </p>
 
 ---
