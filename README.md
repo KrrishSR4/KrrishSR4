@@ -67,7 +67,7 @@ graph TB
 
     H --> J["Infrastructure as Code<br/>Terraform • Ansible"]
 
-    H --> K["Cloud Platforms<br/>AWS • Google Cloud Platform • Oracle Cloud Infrastructure"]
+    H --> K["Cloud Platforms<br/>AWS • GCP • OCI"]
 
     J --> L["Observability & SRE<br/>Prometheus • Grafana • OpenTelemetry • Datadog"]
 
