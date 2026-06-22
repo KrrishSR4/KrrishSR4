@@ -39,45 +39,59 @@
 
 
 #  Skills & Tools  
+---
+## Programming Language
+
+| JavaScript | TypeScript |
+|:----------:|:----------:|
+| <img src="https://skillicons.dev/icons?i=js" width="48"/> | <img src="https://skillicons.dev/icons?i=ts" width="48"/> |
+---
 
 ##  Frontend  
-
-| HTML | CSS | Bootstrap | Tailwind | JavaScript | Angular | React | Next.js |
-|-----|-----|-----------|----------|------------|---------|-------|--------|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48"/><br> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48"/><br> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="48"/><br> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="48"/><br> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48"/><br> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="48"/><br> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48"/><br> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="48"/><br> |
+| HTML | CSS | Tailwind CSS | React | Angular | Next.js |
+|:----:|:---:|:------------:|:-----:|:-------:|:-------:|
+| <img src="https://skillicons.dev/icons?i=html" width="48"/> | <img src="https://skillicons.dev/icons?i=css" width="48"/> | <img src="https://skillicons.dev/icons?i=tailwind" width="48"/> | <img src="https://skillicons.dev/icons?i=react" width="48"/> | <img src="https://skillicons.dev/icons?i=angular" width="48"/> | <img src="https://skillicons.dev/icons?i=nextjs" width="48"/> |
 
 ---
 
 ##  Backend  
 
-| Node.js | Express.js | NestJS |
-|--------|------------|--------|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48"/><br> | <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/><br> | <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/><br> |
+| Node.js | Express.js | REST APIs | GraphQL |
+|:-------:|:----------:|:---------:|:-------:|
+| <img src="https://skillicons.dev/icons?i=nodejs" width="48"/> | <img src="https://skillicons.dev/icons?i=express" width="48"/> | <img src="https://cdn-icons-png.flaticon.com/512/2165/2165004.png" width="48"/> | <img src="https://skillicons.dev/icons?i=graphql" width="48"/> |
 
 ---
 
 ##  Databases  
 
-| SQL | Oracle | PostgreSQL | MongoDB | Redis |
-|-----|--------|------------|---------|-------|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48"/><br> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="48"/><br> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48"/><br> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48"/><br> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="48"/><br> |
+| SQL | PostgreSQL | Redis |
+|:---:|:----------:|:-----:|
+| <img src="https://skillicons.dev/icons?i=mysql" width="48"/> | <img src="https://skillicons.dev/icons?i=postgres" width="48"/> | <img src="https://skillicons.dev/icons?i=redis" width="48"/> |
 
 ---
 
-##  Version Control  
+##  Tools 
 
-| Git | GitHub | GitLab | Bitbucket |
-|-----|--------|--------|-----------|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48"/><br> | <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/><br> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="48"/><br> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" width="48"/><br> |
+| Cloudflare | Supabase | Firebase | Vercel | Git | GitHub |
+|:----------:|:--------:|:--------:|:------:|:---:|:------:|
+| <img src="https://skillicons.dev/icons?i=cloudflare" width="48"/> | <img src="https://skillicons.dev/icons?i=supabase" width="48"/> | <img src="https://skillicons.dev/icons?i=firebase" width="48"/> | <img src="https://skillicons.dev/icons?i=vercel" width="48"/> | <img src="https://skillicons.dev/icons?i=git" width="48"/> | <img src="https://skillicons.dev/icons?i=github" width="48"/> |
 
 ---
 
 ##  DevOps, CI-CD & Monitoring  
 
-| Docker | Kubernetes | Terraform | Ansible | CloudFormation | Jenkins | GitHub Actions | CircleCI | Prometheus | Grafana |
-|------|------------|-----------|---------|----------------|---------|----------------|----------|------------|---------|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48"/><br> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="48"/><br> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="48"/><br> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="48"/><br> | <img src="https://img.shields.io/badge/AWS-CloudFormation-orange?style=for-the-badge"/><br> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="48"/><br> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" width="48"/><br> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg" width="48"/><br> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" width="48"/><br> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="48"/><br> |
+| Docker | Kubernetes | GitHub Actions | Jenkins | Terraform | Ansible |
+|:------:|:----------:|:--------------:|:-------:|:---------:|:-------:|
+| <img src="https://skillicons.dev/icons?i=docker" width="48"/> | <img src="https://skillicons.dev/icons?i=kubernetes" width="48"/> | <img src="https://skillicons.dev/icons?i=githubactions" width="48"/> | <img src="https://skillicons.dev/icons?i=jenkins" width="48"/> | <img src="https://skillicons.dev/icons?i=terraform" width="48"/> | <img src="https://skillicons.dev/icons?i=ansible" width="48"/> |
 
+| ArgoCD | OpenTelemetry | Prometheus | Grafana | Datadog | Nginx |
+|:------:|:-------------:|:----------:|:-------:|:-------:|:-----:|
+| <img src="https://cdn.simpleicons.org/argo" width="48"/> | <img src="https://raw.githubusercontent.com/cncf/artwork/main/projects/opentelemetry/icon/color/opentelemetry-icon-color.svg" width="48"/> | <img src="https://skillicons.dev/icons?i=prometheus" width="48"/> | <img src="https://skillicons.dev/icons?i=grafana" width="48"/> | <img src="https://cdn.simpleicons.org/datadog" width="48"/> | <img src="https://skillicons.dev/icons?i=nginx" width="48"/> |
+
+
+| Linux | Trivy | SonarQube | OWASP | GitHub CodeQL |
+|:-----:|:-----:|:---------:|:-----:|:-------------:|
+| <img src="https://skillicons.dev/icons?i=linux" width="48"/> | <img src="https://raw.githubusercontent.com/aquasecurity/trivy/main/docs/imgs/logo.png" width="48"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sonarqube/sonarqube-original.svg" width="48"/> | <img src="https://cdn.simpleicons.org/owasp" width="48"/> | <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="48"/> |
 ---
 
 ##  Cloud Platforms  
