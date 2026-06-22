@@ -1,0 +1,386 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="600">
+  <rect width="100%" height="100%" fill="#0d1117"/>
+
+  <text x="50%" y="50"
+        fill="white"
+        font-size="34"
+        text-anchor="middle">
+        GitHub Constellation
+  </text>
+
+      <circle
+        cx="507.75836301495247"
+        cy="301.76778533667454"
+        r="36"
+        fill="#58a6ff"
+      />
+
+      <text
+        x="519.7583630149525"
+        y="301.76778533667454"
+        fill="white"
+        font-size="12">
+        KrrishSR4
+      </text>
+      
+      <circle
+        cx="353.16122089174854"
+        cy="374.0055673650903"
+        r="22"
+        fill="#58a6ff"
+      />
+
+      <text
+        x="365.16122089174854"
+        y="374.0055673650903"
+        fill="white"
+        font-size="12">
+        RepoXray
+      </text>
+      
+      <circle
+        cx="604.120949269799"
+        cy="355.7299092408593"
+        r="18"
+        fill="#58a6ff"
+      />
+
+      <text
+        x="616.120949269799"
+        y="355.7299092408593"
+        fill="white"
+        font-size="12">
+        WebMetricsX
+      </text>
+      
+      <circle
+        cx="1038.2664289602571"
+        cy="152.71777535756354"
+        r="16"
+        fill="#58a6ff"
+      />
+
+      <text
+        x="1050.2664289602571"
+        y="152.71777535756354"
+        fill="white"
+        font-size="12">
+        Krish_Portfolio
+      </text>
+      
+      <circle
+        cx="798.9042814109572"
+        cy="259.64884421339303"
+        r="6"
+        fill="#58a6ff"
+      />
+
+      <text
+        x="810.9042814109572"
+        y="259.64884421339303"
+        fill="white"
+        font-size="12">
+        ai-intern-finder
+      </text>
+      
+      <circle
+        cx="788.6219593089269"
+        cy="66.80658947626357"
+        r="6"
+        fill="#58a6ff"
+      />
+
+      <text
+        x="800.6219593089269"
+        y="66.80658947626357"
+        fill="white"
+        font-size="12">
+        ai-study-buddy
+      </text>
+      
+      <circle
+        cx="1023.3837107950228"
+        cy="72.80264388360065"
+        r="6"
+        fill="#58a6ff"
+      />
+
+      <text
+        x="1035.3837107950228"
+        y="72.80264388360065"
+        fill="white"
+        font-size="12">
+        alertshield
+      </text>
+      
+      <circle
+        cx="421.36625313005936"
+        cy="543.059195974599"
+        r="6"
+        fill="#58a6ff"
+      />
+
+      <text
+        x="433.36625313005936"
+        y="543.059195974599"
+        fill="white"
+        font-size="12">
+        angular-cli
+      </text>
+      
+      <circle
+        cx="339.3420937539668"
+        cy="120.2869661261053"
+        r="6"
+        fill="#58a6ff"
+      />
+
+      <text
+        x="351.3420937539668"
+        y="120.2869661261053"
+        fill="white"
+        font-size="12">
+        ANGULAR_N8N
+      </text>
+      
+      <circle
+        cx="1045.4006409793842"
+        cy="70.78555872189625"
+        r="6"
+        fill="#58a6ff"
+      />
+
+      <text
+        x="1057.4006409793842"
+        y="70.78555872189625"
+        fill="white"
+        font-size="12">
+        ar-game
+      </text>
+      
+      <circle
+        cx="556.9009849096292"
+        cy="309.6124400657193"
+        r="6"
+        fill="#58a6ff"
+      />
+
+      <text
+        x="568.9009849096292"
+        y="309.6124400657193"
+        fill="white"
+        font-size="12">
+        axios
+      </text>
+      
+      <circle
+        cx="407.7612158608991"
+        cy="450.0674550160541"
+        r="6"
+        fill="#58a6ff"
+      />
+
+      <text
+        x="419.7612158608991"
+        y="450.0674550160541"
+        fill="white"
+        font-size="12">
+        bastedburritos
+      </text>
+      
+      <circle
+        cx="1085.6174796969237"
+        cy="77.09377930904944"
+        r="6"
+        fill="#58a6ff"
+      />
+
+      <text
+        x="1097.6174796969237"
+        y="77.09377930904944"
+        fill="white"
+        font-size="12">
+        chat-companion
+      </text>
+      
+      <circle
+        cx="228.62739759250712"
+        cy="155.40467913506203"
+        r="6"
+        fill="#58a6ff"
+      />
+
+      <text
+        x="240.62739759250712"
+        y="155.40467913506203"
+        fill="white"
+        font-size="12">
+        CloudOpsHub
+      </text>
+      
+      <circle
+        cx="1106.9601659567013"
+        cy="389.621092642947"
+        r="6"
+        fill="#58a6ff"
+      />
+
+      <text
+        x="1118.9601659567013"
+        y="389.621092642947"
+        fill="white"
+        font-size="12">
+        code-studio-live
+      </text>
+      
+      <circle
+        cx="703.6848933633019"
+        cy="84.19543156770222"
+        r="6"
+        fill="#58a6ff"
+      />
+
+      <text
+        x="715.6848933633019"
+        y="84.19543156770222"
+        fill="white"
+        font-size="12">
+        cross-project-council
+      </text>
+      
+      <circle
+        cx="174.42783614158236"
+        cy="145.56038621890517"
+        r="6"
+        fill="#58a6ff"
+      />
+
+      <text
+        x="186.42783614158236"
+        y="145.56038621890517"
+        fill="white"
+        font-size="12">
+        deploying-next-app-with-ci-cd
+      </text>
+      
+      <circle
+        cx="983.1749503157894"
+        cy="501.82574134773057"
+        r="6"
+        fill="#58a6ff"
+      />
+
+      <text
+        x="995.1749503157894"
+        y="501.82574134773057"
+        fill="white"
+        font-size="12">
+        docs
+      </text>
+      
+      <circle
+        cx="822.8755484436043"
+        cy="67.1925044327843"
+        r="6"
+        fill="#58a6ff"
+      />
+
+      <text
+        x="834.8755484436043"
+        y="67.1925044327843"
+        fill="white"
+        font-size="12">
+        functions-samples
+      </text>
+      
+      <circle
+        cx="1146.7535129721787"
+        cy="123.15551175926882"
+        r="6"
+        fill="#58a6ff"
+      />
+
+      <text
+        x="1158.7535129721787"
+        y="123.15551175926882"
+        fill="white"
+        font-size="12">
+        Github-Email-Finder
+      </text>
+      
+      <circle
+        cx="865.8491307582868"
+        cy="414.49480853224725"
+        r="6"
+        fill="#58a6ff"
+      />
+
+      <text
+        x="877.8491307582868"
+        y="414.49480853224725"
+        fill="white"
+        font-size="12">
+        KrishMishra
+      </text>
+      
+      <circle
+        cx="1071.8566069497306"
+        cy="361.444269546881"
+        r="6"
+        fill="#58a6ff"
+      />
+
+      <text
+        x="1083.8566069497306"
+        y="361.444269546881"
+        fill="white"
+        font-size="12">
+        lighthouse
+      </text>
+      
+      <circle
+        cx="857.0317227396635"
+        cy="548.5637580751138"
+        r="6"
+        fill="#58a6ff"
+      />
+
+      <text
+        x="869.0317227396635"
+        y="548.5637580751138"
+        fill="white"
+        font-size="12">
+        n8n
+      </text>
+      
+      <circle
+        cx="406.76717774106885"
+        cy="428.012563522814"
+        r="6"
+        fill="#58a6ff"
+      />
+
+      <text
+        x="418.76717774106885"
+        y="428.012563522814"
+        fill="white"
+        font-size="12">
+        OpenSourceScout
+      </text>
+      
+      <circle
+        cx="401.54592269163345"
+        cy="250.84297437097308"
+        r="6"
+        fill="#58a6ff"
+      />
+
+      <text
+        x="413.54592269163345"
+        y="250.84297437097308"
+        fill="white"
+        font-size="12">
+        oppia
+      </text>
+      </svg>
