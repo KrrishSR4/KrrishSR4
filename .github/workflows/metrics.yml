@@ -1,4 +1,4 @@
-name: Metrics
+name: GitHub Metrics
 
 on:
   schedule:
@@ -9,12 +9,16 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
 
+    permissions:
+      contents: write
+
     steps:
       - name: Generate Metrics
         uses: lowlighter/metrics@latest
         with:
+          token: ${{ secrets.METRICS_TOKEN }}
+
           user: KrrishSR4
-          token: ${{ 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 }}
 
           template: classic
           base: header, activity, community, repositories, metadata
@@ -23,8 +27,8 @@ jobs:
 
           plugin_languages: yes
           plugin_languages_limit: 8
-          plugin_languages_sections: most-used
           plugin_languages_indepth: yes
+          plugin_languages_sections: most-used
 
           plugin_isocalendar: yes
 
@@ -38,8 +42,7 @@ jobs:
 
           filename: github-metrics.svg
 
-      - name: Commit Metrics
-        uses: EndBug/add-and-commit@v9
+      - name: Push Metrics
+        uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          add: github-metrics.svg
-          message: "Update metrics"
+          commit_message: "chore: update github metrics"
