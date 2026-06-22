@@ -30,30 +30,28 @@ jobs:
           config_timezone: Asia/Kolkata
           config_padding: 30
 
+          # Languages
           plugin_languages: yes
           plugin_languages_limit: 8
           plugin_languages_indepth: yes
           plugin_languages_sections: most-used
 
+          # Contribution Calendar
           plugin_isocalendar: yes
 
+          # Follow-up Analysis
           plugin_followup: yes
           plugin_followup_sections: repositories
 
+          # Code Statistics
           plugin_lines: yes
 
+          # Notable Contributions
           plugin_notable: yes
 
-          plugin_repositories: yes
-          plugin_repositories_featured: 6
-
+          # Topics
           plugin_topics: yes
           plugin_topics_limit: 20
-
-          plugin_stars: yes
-
-          plugin_people: yes
-          plugin_people_limit: 24
 
       - name: Commit Metrics
         run: |
