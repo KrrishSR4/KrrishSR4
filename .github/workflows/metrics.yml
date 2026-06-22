@@ -1,76 +1,64 @@
 name: GitHub Metrics
 
 on:
-schedule:
-- cron: "0 */12 * * *"
-workflow_dispatch:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
 
 jobs:
-github-metrics:
-runs-on: ubuntu-latest
+  github-metrics:
+    runs-on: ubuntu-latest
 
-```
-permissions:
-  contents: write
+    permissions:
+      contents: write
 
-steps:
-  - name: Checkout Repository
-    uses: actions/checkout@v4
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
 
-  - name: Generate Metrics
-    uses: lowlighter/metrics@latest
-    with:
-      token: ${{ secrets.METRICS_TOKEN }}
+      - name: Generate Metrics
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
 
-      user: KrrishSR4
-      filename: github-metrics.svg
+          user: KrrishSR4
+          filename: github-metrics.svg
 
-      template: classic
-      base: header, activity, community, repositories, metadata
+          template: classic
+          base: header, activity, community, repositories, metadata
 
-      config_timezone: Asia/Kolkata
-      config_display: large
-      config_padding: 30
+          config_timezone: Asia/Kolkata
+          config_padding: 30
 
-      # Languages
-      plugin_languages: yes
-      plugin_languages_limit: 8
-      plugin_languages_indepth: yes
-      plugin_languages_sections: most-used
+          plugin_languages: yes
+          plugin_languages_limit: 8
+          plugin_languages_indepth: yes
+          plugin_languages_sections: most-used
 
-      # Isometric Calendar
-      plugin_isocalendar: yes
+          plugin_isocalendar: yes
 
-      # Follow-up
-      plugin_followup: yes
-      plugin_followup_sections: repositories
+          plugin_followup: yes
+          plugin_followup_sections: repositories
 
-      # Code Statistics
-      plugin_lines: yes
+          plugin_lines: yes
 
-      # Notable Contributions
-      plugin_notable: yes
+          plugin_notable: yes
 
-      # Featured Repositories
-      plugin_repositories: yes
-      plugin_repositories_featured: 6
+          plugin_repositories: yes
+          plugin_repositories_featured: 6
 
-      # Topics
-      plugin_topics: yes
-      plugin_topics_limit: 20
+          plugin_topics: yes
+          plugin_topics_limit: 20
 
-      # Stars
-      plugin_stars: yes
+          plugin_stars: yes
 
-      # People Network
-      plugin_people: yes
-      plugin_people_limit: 24
+          plugin_people: yes
+          plugin_people_limit: 24
 
-  - name: Commit Metrics
-    run: |
-      git config --local user.email "github-actions[bot]@users.noreply.github.com"
-      git config --local user.name "github-actions[bot]"
-      git add github-metrics.svg
-      git commit -m "chore: update github metrics" || exit 0
-      git push
-```
+      - name: Commit Metrics
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add github-metrics.svg
+          git commit -m "chore: update github metrics" || exit 0
+          git push
