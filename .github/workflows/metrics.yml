@@ -29,38 +29,28 @@ jobs:
 
           config_timezone: Asia/Kolkata
 
-          # Languages
+          # Most Used Languages
           plugin_languages: yes
           plugin_languages_limit: 8
           plugin_languages_indepth: yes
           plugin_languages_sections: most-used
 
-          # Contribution Calendar
-          plugin_isocalendar: yes
-
-          # Follow-up
-          plugin_followup: yes
-          plugin_followup_sections: repositories
-
-          # Code Statistics
-          plugin_lines: yes
-
-          # Featured Repositories
-          plugin_repositories: yes
-          plugin_repositories_featured: 6
-
-          # Topics
-          plugin_topics: yes
-
-          # Stars
-          plugin_stars: yes
-
-          # Notable Contributions
+          # Notable Open Source Contributions
           plugin_notable: yes
 
-          # People Network
-          plugin_people: yes
-          plugin_people_limit: 24
+          # Topics & Technologies
+          plugin_topics: yes
+          plugin_topics_limit: 20
+
+          # Lines of Code Statistics
+          plugin_lines: yes
+
+          # 3D Contribution Calendar
+          plugin_isocalendar: yes
+
+          # Repository Follow-up Analysis
+          plugin_followup: yes
+          plugin_followup_sections: repositories
 
       - name: Commit Metrics
         run: |
