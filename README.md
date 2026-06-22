@@ -37,9 +37,6 @@ Cloud      ▰▰▰▰▰▰▱▱▱▱ 65%
 SRE        ▰▰▰▰▰▰▰▱▱▱ 75%
 ```
 
-
-
-
 ---
 
 # GitHub Stats
@@ -49,13 +46,6 @@ SRE        ▰▰▰▰▰▰▰▱▱▱ 75%
 </p>
 
 ---
-
-
-
-
-
-
-
 
 # Contribution Graph
 
