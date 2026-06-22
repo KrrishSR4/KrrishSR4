@@ -13,12 +13,16 @@ jobs:
       contents: write
 
     steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
       - name: Generate Metrics
         uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
 
           user: KrrishSR4
+          filename: github-metrics.svg
 
           template: classic
           base: header, activity, community, repositories, metadata
@@ -30,19 +34,23 @@ jobs:
           plugin_languages_indepth: yes
           plugin_languages_sections: most-used
 
-          plugin_isocalendar: yes
-
           plugin_achievements: yes
           plugin_achievements_threshold: C
+
+          plugin_isocalendar: yes
 
           plugin_followup: yes
           plugin_followup_sections: repositories
 
+          plugin_habits: yes
+          plugin_habits_facts: yes
+
           plugin_lines: yes
 
-          filename: github-metrics.svg
-
-      - name: Push Metrics
-        uses: stefanzweifel/git-auto-commit-action@v5
-        with:
-          commit_message: "chore: update github metrics"
+      - name: Commit Metrics
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add github-metrics.svg
+          git commit -m "chore: update github metrics" || exit 0
+          git push
