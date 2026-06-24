@@ -2,8 +2,7 @@
 
 
 <!-- Typing SVG Animation -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rubik+Doodle+Shadow&size=36&pause=220&color=FFFFFF&center=true&vCenter=true&width=1300&lines=Hey%2C+I'm+Krish+Mishra;Engineering+Student+(2023–2027);Fullstack+Developer;DevOps+%7C+Cloud+%7C+SRE+Focused;Passionate+Learner+%7C+Problem+Solver;Open+Source+Contributor)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Jersey+25&size=36&pause=220&color=FFFFFF&center=true&vCenter=true&width=1300&lines=Hey%2C+I'm+Krish+Mishra;Engineering+Student+(2023%E2%80%932027);Fullstack+Developer;DevOps+%7C+Cloud+%7C+SRE+Focused+Engineer;Passionate+Learner+%7C+Problem+Solver;Open+Source+Contributor)](https://git.io/typing-svg)
 ---
 
 <h1 align="center">About Me</h1>
@@ -179,7 +178,7 @@ graph TB
 
 ---
 
-<h3 align="center">DevOps, CI-CD & Cloud Infrastructure</h3>
+<h3 align="center">DevOps, CI-CD & IaC</h3>
 
 <div align="center">
 
@@ -189,7 +188,7 @@ graph TB
 
 </div>
 
-<h3 align="center">Monitoring & Observability</h3>
+<h3 align="center">Monitoring, Observability & SRE</h3>
 
 <div align="center">
 
