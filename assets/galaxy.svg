@@ -69,14 +69,14 @@ Open Source Galaxy
     <circle
       cx="782.2724133595217"
       cy="447.5"
-      r="28"
+      r="30"
       fill="#58a6ff"
       filter="url(#glow)"
     />
 
     <text
       x="782.2724133595217"
-      y="493.5"
+      y="495.5"
       fill="#c9d1d9"
       font-size="14"
       font-family="Segoe UI"
