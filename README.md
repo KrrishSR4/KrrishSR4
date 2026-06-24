@@ -118,7 +118,7 @@ graph TB
 
 ---
 
-<h3 align="center">Programming Language</h3>
+<h3 align="center">Programming Languages</h3>
 
 <div align="center">
 
