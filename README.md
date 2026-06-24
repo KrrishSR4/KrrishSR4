@@ -238,10 +238,9 @@ graph TB
 
 <div align="center">
 
-| <a href="https://me.developers.google.com/u/KrrishGLE">Google Developer Profile</a> | <a href="https://github.com/KrrishSR4">GitHub</a> |
-|:------------------------------------------------------------------------------------:|:--------------------------------------------------:|
-| <img src="https://cdn.simpleicons.org/google" width="55"/> | <img src="https://skillicons.dev/icons?i=github" width="55"/> |
-
+| G-Dev | GitHub | Email |
+|:------:|:------:|:-----:|
+| <a href="https://me.developers.google.com/u/KrrishGLE"><img src="https://cdn.simpleicons.org/google" width="55"/></a> | <a href="https://github.com/KrrishSR4"><img src="https://skillicons.dev/icons?i=github" width="55"/></a> | <a href="mailto:krishmishra4444@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="55"/></a> |
 </div>
 
 ---
