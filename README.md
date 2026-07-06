@@ -27,6 +27,7 @@ Love building real-world projects and learning new technologies
   <strong>FullStack Development</strong> | 
   <strong>DevOps Engineering</strong> | 
   <strong>Platform Engineering</strong> | 
+  <strong>Systems Engineering</strong> |
   <strong>Cloud Engineering</strong> | 
   <strong>Site Reliability Engineering</strong>
 </p>
