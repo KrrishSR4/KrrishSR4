@@ -105,10 +105,10 @@ graph TB
 
 ---
 
-<h1 align="center">Contribution Graph</h1>
+<h1 align="center">GitHub Streak</h1>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KrrishSR4&bg_color=0d1117&color=58a6ff&line=00E676&point=ffffff&area=true&hide_border=true&custom_title=KrrishSR4%20Contribution%20Graph" width="100%">
+  <img src="https://streak-stats.demolab.com?user=KrrishSR4&theme=github-dark&background=0d1117&border=0d1117&ring=58a6ff&fire=00E676&currStreakLabel=58a6ff" width="100%">
 </p>
 
 ---
