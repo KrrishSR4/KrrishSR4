@@ -97,11 +97,11 @@ graph TB
 
 ---
 
-<!-- <h1 align="center">GitHub Stats</h1>
+ <h1 align="center">GitHub Stats</h1>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/KrrishSR4/KrrishSR4/main/github-metrics.svg" width="70%">
-</p> -->
+</p> 
 
 ---
 
