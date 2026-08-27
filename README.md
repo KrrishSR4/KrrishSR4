@@ -103,13 +103,13 @@ graph TB
   <img src="https://raw.githubusercontent.com/KrrishSR4/KrrishSR4/main/github-metrics.svg" width="70%">
 </p> 
 
----
 
-<h1 align="center">GitHub Streak</h1>
+
+<!-- <h1 align="center">GitHub Streak</h1>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=KrrishSR4&theme=github-dark&background=0d1117&border=0d1117&ring=58a6ff&fire=00E676&currStreakLabel=58a6ff" width="100%">
-</p>
+</p> -->
 
 ---
 
