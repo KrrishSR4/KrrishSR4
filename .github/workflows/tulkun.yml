@@ -1,0 +1,15 @@
+name: Update Tulkun
+
+on:
+  schedule: [{ cron: "0 0 * * *" }]
+  workflow_dispatch:
+  push: { branches: [main] }
+
+permissions:
+  contents: write
+
+jobs:
+  tulkun:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: PramudithaN/git-tulkun@v1
