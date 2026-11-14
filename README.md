@@ -103,7 +103,15 @@ graph TB
   <img src="https://raw.githubusercontent.com/KrrishSR4/KrrishSR4/main/github-metrics.svg" width="70%">
 </p> 
 
+---
 
+<p align="center">
+  <a href="https://github.com/PramudithaN/git-tulkun">
+    <img src="https://raw.githubusercontent.com/KrrishSR4/KrrishSR4/output/tulkun/tulkun.gif" width="640" alt="KrrishSR4's git-tulkun" />
+  </a>
+</p>
+
+---
 
 <!-- <h1 align="center">GitHub Streak</h1>
 
